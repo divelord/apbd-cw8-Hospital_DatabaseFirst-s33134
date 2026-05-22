@@ -1,0 +1,6 @@
+@apbd_cw8_Hospital_DatabaseFirst_s33134_HostAddress = http://localhost:5029
+
+GET {{apbd_cw8_Hospital_DatabaseFirst_s33134_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
