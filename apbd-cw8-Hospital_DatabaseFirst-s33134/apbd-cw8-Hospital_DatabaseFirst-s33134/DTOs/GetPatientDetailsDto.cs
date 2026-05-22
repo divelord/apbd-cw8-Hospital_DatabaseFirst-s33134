@@ -9,7 +9,6 @@ public class GetPatientDetailsDto
     public string Sex { get; set; } = string.Empty;
     public List<GetPatientAdmissionDetailsDto> Admissions { get; set; } = [];
     public List<GetPatientBedAssignmentDetailsDto> BedAssignments { get; set; } = [];
-
 }
 
 public class GetPatientAdmissionDetailsDto
